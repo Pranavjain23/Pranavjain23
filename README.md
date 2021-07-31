@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**Pranavjain23/Pranavjain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Karan :computer:
 
 Here are some ideas to get you started:
 
