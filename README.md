@@ -28,7 +28,7 @@ Some facts about me:
 <img align="left" alt="Pranav's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://www.linkedin.com/in/i-pranav-jain/)<br><br>
 <img align="left" alt="Pranav's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> ipranavjain@gmail.com
 <br><br>
-<img align="left" alt="Pranav's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/googlechrome.svg" /> Check out my <a target="_blank" href="">Portfolio</a>
+<img align="left" alt="Pranav's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/googlechrome.svg" /> Check out my <a target="_blank" href="https://bit.ly/pranavjain">Portfolio</a>
 <br><br>
 
 ![Pranav's Github stats](https://github-readme-stats.vercel.app/api?username=Pranavjain23&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)
