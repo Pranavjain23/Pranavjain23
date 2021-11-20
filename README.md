@@ -14,7 +14,7 @@ Some facts about me:
 
 * :closed_book: I also have experience in the fields of Natural Language Processing and Computer Vision & Analyzing and Visualising large amounts of data with Python.
 
-* :pro: I can sucessfully design and build any type of Web and Mobile Application.
+* 🔥 I can sucessfully design and build any type of Web and Mobile Application.
 
 * :beginner: I can deploy Machine Learning and Deep Learning models using Flask.
 
