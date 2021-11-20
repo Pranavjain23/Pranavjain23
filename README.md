@@ -20,7 +20,7 @@ Some facts about me:
 
 * :earth_asia: I have also built several websites using React, HTML, CSS, Javascript and flask.
 
-* :bulb: I am an avid researcher as well with a couple of publications in respected journals.
+* :bulb: I am an avid researcher as well with a multiple publications in scopus-indexed journals.
 
 ## Contact Me
 
