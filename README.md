@@ -24,7 +24,6 @@ Some facts about me:
 
 ## Contact Me
 
-<img align="left" alt="Pranav's Resume" width="22px" src="https://drive.google.com/file/d/1W0Z4IkfVwBc68luu0ZSmxat368WdDkU6/view?usp=sharing"/> View my [Resume](https://drive.google.com/file/d/1IxnagM1kj34yj1E4HIkfJieI01Y4mkH4/view?usp=sharing) <br><br>
 <img align="left" alt="Pranav's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://www.linkedin.com/in/i-pranav-jain/)<br><br>
 <img align="left" alt="Pranav's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> ipranavjain@gmail.com
 <br><br>
