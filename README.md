@@ -2,11 +2,11 @@
 
 I am Pranav Jain :computer:
 
-I am a budding Web Developer, Application Developer and a Data Scientist, who is very passionate towards Web Development, Application Development, Machine Learning, Deep Learning, Artificial Intelligence and Research. :smile:
+I'm Pranav Jain, a driven software engineer specializing in building high-performance solutions. With experience at Amazon and a focus on cutting-edge technologies, I excel at tackling complex challenges and delivering impactful results in dynamic environments. :smile:
 
 Some facts about me:
 
-* :snake: I am a proficient programmer in C, C++ and Python, with working knowledge of Java, Kotlin, Swift, R and MySQL.
+* :snake: I am a proficient programmer in C, C++, Java and Python, with working knowledge of Kotlin, Swift, R and MySQL.
  
 * :sparkles: I am well versed with the frameworks, practical application as well as theory and statistics of majority of Web & App Development and Machine Learning & Deep Learning              Algorithms.
 
@@ -24,7 +24,7 @@ Some facts about me:
 
 ## Contact Me
 
-View my [Resume](https://drive.google.com/file/d/1IxnagM1kj34yj1E4HIkfJieI01Y4mkH4/view?usp=sharing) <br><br>
+View my [Resume](https://docs.google.com/document/d/1BEZLEJ3J0_QQRkZG67XjAQvV50S5B2Gh/edit?usp=sharing&ouid=101363928817385713560&rtpof=true&sd=true) <br><br>
 <img align="left" alt="Pranav's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://www.linkedin.com/in/i-pranav-jain/)<br><br>
 <img align="left" alt="Pranav's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> ipranavjain@gmail.com
 <br><br>
